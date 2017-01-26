@@ -465,7 +465,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="C:\Source\revive\ReviveOverlay\ReviveOverlay_resource.rc" />
+    <ResourceCompile Include="ReviveOverlay_resource.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets" />
